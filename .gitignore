@@ -1,0 +1,5 @@
+**/*.stl
+**/*.3mf
+workspace.json
+workspacememory.md
+graphify-out/WORKSPACE_MEMORY.md
